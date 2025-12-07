@@ -333,13 +333,6 @@ Before seeking help, verify:
 "Verify my API key permissions"
 ```
 
-### Community Resources
-
-1. **GitHub Issues**: [Report bugs and get help](https://github.com/makafeli/n8n-workflow-builder/issues)
-2. **n8n Community**: [General n8n support](https://community.n8n.io/)
-3. **MCP Documentation**: [Model Context Protocol docs](https://modelcontextprotocol.io/)
-4. **Claude Desktop Support**: [Anthropic support](https://support.anthropic.com/)
-
 ### Creating Effective Bug Reports
 
 When reporting issues, include:
