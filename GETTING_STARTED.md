@@ -153,7 +153,7 @@ The AI will create, configure, and activate the workflow for you!
 ## 🆘 Need Help?
 
 - **Documentation**: [Full README](README.md)
-- **Issues**: [GitHub Issues](https://github.com/makafeli/n8n-workflow-builder/issues)
+- **Issues**: [GitHub Issues](https://github.com/xedi1)
 - **Community**: [n8n Community](https://community.n8n.io/)
 - **MCP Docs**: [Model Context Protocol](https://modelcontextprotocol.io/)
 
