@@ -81,7 +81,7 @@ A powerful Model Context Protocol (MCP) server that enables AI assistants to man
 - [FAQ](#-frequently-asked-questions)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Useful Links](#-useful-links)
+- [Links](#-links)
 
 ## 📖 Additional Documentation
 
