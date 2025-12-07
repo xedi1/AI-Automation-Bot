@@ -432,7 +432,7 @@ DEBUG=n8n-workflow-builder npx @makafeli/n8n-workflow-builder
 
 ### Getting Help
 
-1. Check the [GitHub Issues](https://github.com/makafeli/n8n-workflow-builder/issues)
+1. Check the [GitHub Issues](https://github.com/xedi1/AI-Automation-Bot)
 2. Review n8n's [API documentation](https://docs.n8n.io/api/)
 3. Verify your MCP client configuration
 
@@ -547,13 +547,14 @@ We welcome contributions!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Useful Links
+## 🔗 Links
 
-- **[n8n Documentation](https://docs.n8n.io/)** - Official n8n docs
-- **[Model Context Protocol](https://modelcontextprotocol.io/)** - MCP specification
-- **[Claude Desktop](https://claude.ai/desktop)** - AI assistant with MCP support
-- **[Cline](https://cline.bot/)** - VS Code AI assistant
-- **[GitHub Repository](https://github.com/makafeli/n8n-workflow-builder)** - Source code and issues
+<img width="50" height="50" alt="microsoft-linkedin1742289593" src="https://github.com/user-attachments/assets/dd91741f-04f8-48d4-ac85-a98e695d7457" />
+www.linkedin.com/in/hadi-gholipour-8717a1383
+
+![github-6980894_1280](https://github.com/user-attachments/assets/e1ae7d83-3aed-4d63-840c-d2ae4ed367c1)
+https://github.com/xedi1
+
 
 ---
 
