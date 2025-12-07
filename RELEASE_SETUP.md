@@ -3,7 +3,6 @@
 ## ✅ Current Status
 
 **GitHub Release v0.10.1**: ✅ **CREATED SUCCESSFULLY**
-- **Release URL**: https://github.com/makafeli/n8n-workflow-builder/releases/tag/v0.10.1
 - **Tag**: v0.10.1
 - **Comprehensive Release Notes**: ✅ Included
 - **GitHub Actions Workflows**: ✅ Configured
@@ -23,7 +22,7 @@
 
 ### 2. Add NPM_TOKEN to GitHub Secrets
 
-1. **Go to Repository Settings**: https://github.com/makafeli/n8n-workflow-builder/settings/secrets/actions
+1. **Go to Repository Settings**: https://github.com/xedi1/AI-Automation-Bot/settings/secrets/actions
 2. **Click "New repository secret"**
 3. **Name**: `NPM_TOKEN`
 4. **Value**: Paste your npm access token
