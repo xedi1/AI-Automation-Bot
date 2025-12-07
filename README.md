@@ -552,7 +552,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <img width="50" height="50" alt="microsoft-linkedin1742289593" src="https://github.com/user-attachments/assets/dd91741f-04f8-48d4-ac85-a98e695d7457" />
 www.linkedin.com/in/hadi-gholipour-8717a1383
 
-![github-6980894_1280](https://github.com/user-attachments/assets/e1ae7d83-3aed-4d63-840c-d2ae4ed367c1)
 https://github.com/xedi1
 
 
