@@ -143,12 +143,6 @@ curl -X POST https://api.smithery.ai/v1/servers/@makafeli/n8n-workflow-builder/t
    - Check n8n instance is accessible from Smithery's servers
    - Review tool parameter validation
 
-### Getting Help
-
-- **Smithery Documentation**: [smithery.ai/docs](https://smithery.ai/docs)
-- **Discord Community**: [discord.gg/Afd38S5p9A](https://discord.gg/Afd38S5p9A)
-- **GitHub Issues**: [github.com/makafeli/n8n-workflow-builder/issues](https://github.com/makafeli/n8n-workflow-builder/issues)
-
 ## 🎉 Benefits of Smithery Hosting
 
 - **No Installation**: Users don't need to install or run your MCP server locally
